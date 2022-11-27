@@ -1,5 +1,5 @@
 {
-  "name": "group_chat",
+  "name": "group-chat",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
